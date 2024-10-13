@@ -1,0 +1,3 @@
+text-align: center
+- also works on any inline element.
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
