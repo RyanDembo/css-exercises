@@ -1,0 +1,5 @@
+I forgot to use justify content- space between, which in 3 containers will put 1st and 3rd at the end.
+
+- also forgot to about padding in the header, don't use margin for what padding can do to make interior content not hit edges.
+
+- i used margin-right/left auto trick, see https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Typical_use_cases_of_flexbox
